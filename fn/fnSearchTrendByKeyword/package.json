@@ -1,0 +1,10 @@
+{
+  "name": "fnSearchTrendByKeyword",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "google-trends-api": "4.7.0",
+    "https": "1.0.0",
+    "wait-for-stuff": "1.4.0"
+  }
+}
